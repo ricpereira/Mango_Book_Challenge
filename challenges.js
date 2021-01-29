@@ -75,7 +75,6 @@ var challenges = {
         "Ler um livro publicado em 2021",
         "Ler um livro que foi publicado há mais de 10 anos",
         "Ler um livro do ano do teu nascimento",
-        "Ler um favorito da Ricarda",
         "Ler um paperback",
         "Ler um hardback",
         "Audiobook",
