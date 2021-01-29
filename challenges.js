@@ -34,7 +34,7 @@ var challenges = {
         "Ler um livro de um(a) autor(a) de um país que gostavas de visitar",
         "Ler um livro com um animal na capa",
         "Ler um livro com flores na capa",
-        "Ler um livro com um rosto na cara",
+        "Ler um livro com um rosto na capa",
         "Ler um livro que tenha na capa a tua cor favorita",
         "Ler um livro com uma capa vermelha",
         "Ler um livro com a capa azul",
